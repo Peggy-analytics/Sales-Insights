@@ -30,4 +30,4 @@ This project analyzes vehicle sales data to identify sales trends, customer pref
 
 ## Author
 Peggy Oyarekhua
-Aspiring Data Analyst
+(Aspiring Data Analyst)
