@@ -1,3 +1,4 @@
+<img width="1327" height="508" alt="Screenshot 2026-05-26 054638" src="https://github.com/user-attachments/assets/bb73169e-c879-4474-9156-d0bd3f7af7e2" />
 # vehicle sales performance
 ## Project Overveiw
 This project analyzes vehicle sales data to identify sales trends, customer preferences,and business performance across different regions.
