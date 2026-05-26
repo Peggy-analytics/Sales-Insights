@@ -26,7 +26,8 @@ This project analyzes vehicle sales data to identify sales trends, customer pref
 - Dataset.xlsx
 - Dashboard screenshots
 ## Dashboard Preview
-(screenshots here)
+<img width="1327" height="508" alt="Screenshot 2026-05-26 054638" src="https://github.com/user-attachments/assets/e4861e9f-388b-44b7-92d5-b1f5627ad4bf" />
+
 ## Author
 Peggy Oyarekhua
 Aspiring Data Analyst
